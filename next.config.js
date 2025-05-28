@@ -10,8 +10,7 @@ const nextConfig = {
     unoptimized: true
   },
   experimental: {
-    optimizeCss: true,
-    optimizePackageImports: ['@lucide-react']
+    optimizePackageImports: ['lucide-react']
   }
 }
 
